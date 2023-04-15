@@ -12,4 +12,6 @@ Step 2: Start the development server by executing "npm run dev" command. Please 
 
 With these simple steps, you'll be up and running with Twitter in no time, ready to take advantage of all the powerful features and functionality our platform has to offer.
 
+This application is live ✨ at https://dee-twitter.vercel.app/ 
+
 If you'd like to get in touch with me to discuss potential collaborations or projects, please feel free to visit my website at ✨ deepakwings.netlify.app. I'm always open to exploring new opportunities and ideas, and would be happy to hear from you.
