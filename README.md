@@ -14,4 +14,4 @@ With these simple steps, you'll be up and running with Twitter in no time, ready
 
 This application is live ✨ at https://dee-twitter.vercel.app/ 
 
-If you'd like to get in touch with me to discuss potential collaborations or projects, please feel free to visit my website at ✨ deepakwings.netlify.app. I'm always open to exploring new opportunities and ideas, and would be happy to hear from you.
+If you'd like to get in touch with me to discuss potential collaborations or projects, please feel free to visit my website at ✨ https://deepakwings.netlify.app. I'm always open to exploring new opportunities and ideas, and would be happy to hear from you.
